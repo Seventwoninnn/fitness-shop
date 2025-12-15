@@ -1,2 +1,2 @@
 # fitness-shop
-请看“master”文件夹
+请看“master” branch
